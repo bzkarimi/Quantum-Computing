@@ -1,4 +1,4 @@
-# Quantum-Computing
+# Quantum Computing
 
 ### [1. VQE](https://github.com/bzkarimi/Quantum-Computing/tree/main/VQE)
 
